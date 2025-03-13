@@ -1,2 +1,8 @@
 # Manual-Testing-Projects
-Here You Can See Multiple Manual Domain Projects For Practice
+Here You Can See Multiple Domain Manual Projects For Practice
+1 - E-COMMERCE = AMAZON
+2 - APPLICATION SOFTWARE = VIDEO MAKER OF PHOTO WITH MUSIC
+3 - IT-FIELD = DIGIMEDIA
+4 - BANKING SECTOR = AXIS BANK
+5 - PRODUCTION BASE = REDHAT
+6 - TYPES OF FORMS = GOOGLE FORM
